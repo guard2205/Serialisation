@@ -1,0 +1,7 @@
+D:\isetcours\QII\POO\codeCours\2018_04_25\ISET2018Serialisation\ISET2018Serialisation\bin\Debug\ISET2018Serialisation.exe.config
+D:\isetcours\QII\POO\codeCours\2018_04_25\ISET2018Serialisation\ISET2018Serialisation\bin\Debug\ISET2018Serialisation.exe
+D:\isetcours\QII\POO\codeCours\2018_04_25\ISET2018Serialisation\ISET2018Serialisation\bin\Debug\ISET2018Serialisation.pdb
+D:\isetcours\QII\POO\codeCours\2018_04_25\ISET2018Serialisation\ISET2018Serialisation\obj\Debug\ISET2018Serialisation.csprojResolveAssemblyReference.cache
+D:\isetcours\QII\POO\codeCours\2018_04_25\ISET2018Serialisation\ISET2018Serialisation\obj\Debug\ISET2018Serialisation.csproj.CoreCompileInputs.cache
+D:\isetcours\QII\POO\codeCours\2018_04_25\ISET2018Serialisation\ISET2018Serialisation\obj\Debug\ISET2018Serialisation.exe
+D:\isetcours\QII\POO\codeCours\2018_04_25\ISET2018Serialisation\ISET2018Serialisation\obj\Debug\ISET2018Serialisation.pdb
